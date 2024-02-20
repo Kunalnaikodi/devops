@@ -1,1 +1,7 @@
-this is 6th feature
+
+
+<<<<<<< HEAD
+
+under the developemet by kunal
+this is sgdhsghdvsahg
+>>>>>>> b7e28fecf48bdaf38b9a0a9cc431048dfc84b9ff
