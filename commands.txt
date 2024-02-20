@@ -1,4 +1,9 @@
+git status
+git init
 git add
-
-git rm
-git config --globa;l user
+git rm --cached
+git restore
+git config user.email ""
+git config user.name ""
+git log --oneline --pretty
+git commit -m 
