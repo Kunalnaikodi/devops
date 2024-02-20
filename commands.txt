@@ -6,4 +6,5 @@ git restore
 git config user.email ""
 git config user.name ""
 git log --oneline --pretty
-git commit -m 
+git commit -m
+git checkout -b 
